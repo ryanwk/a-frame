@@ -1,4 +1,4 @@
-<% project_name = 'aframetutorial' %>
+<% project_name = 'AframeApi' %>
 
 default: &default
   adapter: postgresql
